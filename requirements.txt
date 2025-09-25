@@ -12,3 +12,4 @@ openai
 langchain_openai
 faiss-cpu
 streamlit
+langchain_chroma
